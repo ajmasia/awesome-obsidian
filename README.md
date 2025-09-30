@@ -4,7 +4,7 @@
 
 ## 💼 Vault templates
 
-- [Starter Plain  vault](./vaults/starter-plain/README.md)
+- [Starter Plain vault](./vaults/starter-plain/README.md) (recommended)
 - [Starter vault](./vaults/starter/README.md)
 
 ## 🔌 Recommended Plugins
@@ -19,6 +19,17 @@
 - [Iconize: Simply add icons to anything you want in Obsidian.](https://github.com/FlorianWoelki/obsidian-iconize)
 
 You can get more plugins from the [Official Obsidian Community Plugins Browser](https://obsidian.md/plugins)
+
+- [Obsidian Web Clipper](https://obsidian.md/clipper)
+
+## Resources to learn Obsidian
+
+- [Home - Obsidian Help](https://help.obsidian.md/)
+- [Obsidian Forum](https://forum.obsidian.md/)
+- [Noosys PKM | Leonel Arocha - YouTube](https://www.youtube.com/@NoosysPKM)
+- [ITK - YouTube](https://www.youtube.com/@ITK_consulting)
+- [Emowe - YouTube](https://www.youtube.com/@emowe)
+- [Linking Your Thinking with Nick Milo - YouTube](https://www.youtube.com/@linkingyourthinking)
 
 ## 📜 License
 
