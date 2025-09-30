@@ -1,0 +1,49 @@
+{
+  "customFileOrder": {
+    "/": [
+      "inbox",
+      "focus",
+      "notes",
+      "support",
+      "README.md"
+    ],
+    "focus": [
+      "focus/journal",
+      "focus/note_pending-tasks_1758634861.md"
+    ],
+    "focus/journal": [],
+    "inbox": [],
+    "notes": [
+      "notes/note_notas-wip-agrupadas-por-carpetas_1758792121.md",
+      "notes/note_como-formatear-notas-en-obsidian_1758790683.md"
+    ],
+    "support": [
+      "support/attachments",
+      "support/scripts",
+      "support/templates"
+    ],
+    "support/attachments": [],
+    "support/scripts": [
+      "support/scripts/plugins"
+    ],
+    "support/scripts/plugins": [
+      "support/scripts/plugins/templater"
+    ],
+    "support/scripts/plugins/templater": [
+      "support/scripts/plugins/templater/get_file_title.js",
+      "support/scripts/plugins/templater/get_legible_title.js"
+    ],
+    "support/templates": [
+      "support/templates/plugins",
+      "support/templates/user"
+    ],
+    "support/templates/plugins": [
+      "support/templates/plugins/daily-note.templater.md"
+    ],
+    "support/templates/user": [
+      "support/templates/user/formatted-note.templater.md"
+    ]
+  },
+  "draggingEnabled": true,
+  "selectedSortOrder": "manual-sorting"
+}

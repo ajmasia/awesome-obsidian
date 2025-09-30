@@ -1,0 +1,9 @@
+{
+  "showInlineTitle": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "inbox",
+  "readableLineLength": false,
+  "attachmentFolderPath": "support/attachments",
+  "trashOption": "local",
+  "alwaysUpdateLinks": true
+}
