@@ -1,0 +1,43 @@
+{
+  "customFileOrder": {
+    "/": [
+      "inbox",
+      "focus",
+      "notes",
+      "support",
+      "README.md"
+    ],
+    "focus": [
+      "focus/journal",
+      "focus/Pareas Pendientes.md"
+    ],
+    "focus/journal": [],
+    "inbox": [],
+    "notes": [
+      "notes/Notas WIP agrupadas por carpeta.md",
+      "notes/Cómo dar formato enriquecido a las notas en Obsidian.md"
+    ],
+    "support": [
+      "support/attachments",
+      "support/templates",
+      "support/scripts"
+    ],
+    "support/attachments": [],
+    "support/scripts": [
+      "support/scripts/plugins"
+    ],
+    "support/scripts/plugins": [],
+    "support/templates": [
+      "support/templates/user",
+      "support/templates/plugins"
+    ],
+    "support/templates/plugins": [
+      "support/templates/plugins/Nota diaria.md"
+    ],
+    "support/templates/user": [
+      "support/templates/user/Nota base.md"
+    ]
+  },
+  "draggingEnabled": true,
+  "selectedSortOrder": "manual-sorting"
+}
