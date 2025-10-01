@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "support/templates/plugins/daily-note.templater.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "daily-note.templater"
+              "title": "README"
             }
           }
         ]
@@ -237,12 +237,12 @@
   },
   "active": "612f82f524e46a5e",
   "lastOpenFiles": [
+    "support/templates/plugins/daily-note.templater.md",
     "README.md",
     "notes/note_notas-wip-agrupadas-por-carpetas_1758792121.md",
     "notes/note_como-formatear-notas-en-obsidian_1758790683.md",
     "focus/note_pending-tasks_1758634861.md",
     "support/templates/user/formatted-note.templater.md",
-    "support/templates/plugins/daily-note.templater.md",
     "inbox/note_asasas_1759155354.md",
     "focus/journal/2025-09-29.md",
     "focus/journal",
