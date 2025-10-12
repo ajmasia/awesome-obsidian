@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiInbox",
       "LiCalendarDays",
       "RiAttachment2",
       "LiArrowDownCircle",
-      "FabReadme",
-      "RiToolsFill"
+      "FabReadme"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -43,7 +43,7 @@
   "support/scripts/plugins": "RiLockFill",
   "support/templates/plugins": "RiLock2Fill",
   "support/templates/user": "FasUser",
-  "inbox": "LiArrowDownCircle",
+  "inbox": "LiInbox",
   "support/attachments": "RiAttachment2",
   "focus/journal": "LiCalendarDays"
 }

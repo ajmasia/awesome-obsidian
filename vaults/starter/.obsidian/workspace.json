@@ -235,8 +235,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "612f82f524e46a5e",
+  "active": "8b790832cf661aa1",
   "lastOpenFiles": [
+    "inbox",
     "support/templates/plugins/daily-note.templater.md",
     "README.md",
     "notes/note_notas-wip-agrupadas-por-carpetas_1758792121.md",
@@ -272,7 +273,6 @@
     "asasas.md",
     "90-resources/templates/plugins/daily-note.templater.md",
     "00-inbox/note_sdasdasd_1758782624.md",
-    "00-inbox/note_formatted-note.templater_1758782541.md",
     "Untitled.canvas"
   ]
 }

@@ -8,21 +8,16 @@
       "README.md"
     ],
     "focus": [
-      "focus/journal",
       "focus/note_pending-tasks_1758634861.md"
     ],
-    "focus/journal": [],
-    "inbox": [],
     "notes": [
       "notes/note_notas-wip-agrupadas-por-carpetas_1758792121.md",
       "notes/note_como-formatear-notas-en-obsidian_1758790683.md"
     ],
     "support": [
-      "support/attachments",
       "support/scripts",
       "support/templates"
     ],
-    "support/attachments": [],
     "support/scripts": [
       "support/scripts/plugins"
     ],
@@ -42,7 +37,8 @@
     ],
     "support/templates/user": [
       "support/templates/user/formatted-note.templater.md"
-    ]
+    ],
+    "inbox": []
   },
   "draggingEnabled": true,
   "selectedSortOrder": "manual-sorting"

@@ -235,8 +235,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b9ae4515ee2c58d7",
+  "active": "1749daeb9baa0523",
   "lastOpenFiles": [
+    "Untitled.md",
+    "inbox/Untitled.md",
+    "inbox",
+    "README.md",
     "support/templates/user/Nota base.md",
     "focus/journal/30 de septiembre de 2025.md",
     "support/templates/plugins/Nota diaria.md",
@@ -255,14 +259,11 @@
     "support/templates/user/Cheat Sheet.md",
     "inbox/Añadiendo metadatos a las notas en Obsidian.md",
     "inbox/Nueva nota.md",
-    "README.md",
     "notes/Cómo dar formato enriquecido a las notas en Obsidian.md",
     "notes/Notas WIP agrupadas por carpeta.md",
     "inbox/Nueva Nota.md",
     "focus/journal/29 de septiembre de 2025.md",
     "focus/journal/17 de septiembre de 2025.md",
-    "focus/journal/2025-09-29.md",
-    "focus/journal/28 de septiembre de 2025.md",
     "notes",
     "focus/journal",
     "focus",
@@ -271,7 +272,6 @@
     "support/scripts/plugins",
     "support/templates",
     "support/scripts",
-    "support/attachments",
-    "support"
+    "support/attachments"
   ]
 }

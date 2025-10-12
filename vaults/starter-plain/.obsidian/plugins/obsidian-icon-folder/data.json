@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiInbox",
       "LiNotepadText",
       "RiFocus2Line",
       "LiCalendarDays",
-      "RiAttachment2",
-      "LiCode2"
+      "RiAttachment2"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -35,7 +35,7 @@
     "useInternalPlugins": false
   },
   "README.md": "FabReadme",
-  "inbox": "LiArrowDownCircle",
+  "inbox": "LiInbox",
   "support": "RiToolsFill",
   "support/templates": "LiLayoutTemplate",
   "support/templates/user": "FasUser",
